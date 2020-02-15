@@ -1,0 +1,10 @@
+controller_list:
+  - name: fake_big_hand_controller
+    joints:
+      - HJ1
+      - HJ2
+  - name: fake_big_arm_controller
+    joints:
+      - J1
+      - J2
+      - J3
